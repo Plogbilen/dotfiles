@@ -1,4 +1,7 @@
 # .files
+## Desktop
+* OS: Debian 9.5 Strecth
+* DE: KDE 5.8.6
 ## Shell settings
 ### Bash
 * .bashrc
