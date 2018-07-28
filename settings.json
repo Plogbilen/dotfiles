@@ -1,1 +1,38 @@
-/home/plogbilen/.config/Code/User/settings.json
+{
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.snippetSuggestions": "top",
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  "workbench.editor.showTabs": false,
+  "editor.fontSize": 20,
+  "editor.fontFamily": "'Fira Code', 'Inconsolata','Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "line-counter.excludes": [
+      "**/node_modules/**"
+  ],
+  "git.enableSmartCommit": true,
+  "editor.rulers": [
+      40,
+      80,
+      120
+  ],
+  "vsicons.dontShowNewVersionMessage": true,
+  "rust.mode": "legacy",
+  "material-icon-theme.showUpdateMessage": false,
+  "workbench.colorTheme": "Level Up",
+  "editor.tabCompletion": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 1,
+  "explorer.confirmDragAndDrop": false,
+  "gitlens.keymap": "alternate",
+  "window.menuBarVisibility": "toggle",
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "none",
+  "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
